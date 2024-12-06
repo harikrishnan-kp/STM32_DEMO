@@ -1,0 +1,1 @@
+more details of board B-L072Z-LRWAN1 can be found [here](https://www.digikey.in/en/products/detail/stmicroelectronics/B-L072Z-LRWAN1/6616000)

@@ -1,5 +1,8 @@
-more details of board B-L072Z-LRWAN1 can be found [here](https://www.digikey.in/en/products/detail/stmicroelectronics/B-L072Z-LRWAN1/6616000)
+# B-L072Z-LRWAN1 LoRa®/Sigfox™ Discovery kit
+This Discovery kit features the all-in-one [CMWX1ZZABZ-091](https://www.murata.com/en-sg/products/connectivitymodule/lpwa/overview/lineup/type-abz-091) open module by Murata. The module is powered by an [STM32L072CZ](https://www.st.com/en/microcontrollers-microprocessors/stm32l072cz.html) microcontroller and SX1276 transceiver. More details of can be found [here](https://www.st.com/en/evaluation-tools/b-l072z-lrwan1.html)
 
+# STM32Cube IDE
+## Some hidden files in project repo
 * **.cproject and .project** : These are part of the project management system in STM32CubeIDE, which is based on Eclipse.
    * .cproject : This is an Eclipse-based file that stores configuration data for your C/C++ project, such as compiler settings, include paths, and build options.
    * .project : Another Eclipse file, which defines general project metadata such as the project name, type, and linked resources.

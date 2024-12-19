@@ -1,0 +1,6 @@
+../App/LoRaWAN/src/hw_spi.c:61:6:HW_SPI_Init	2
+../App/LoRaWAN/src/hw_spi.c:99:6:HW_SPI_DeInit	1
+../App/LoRaWAN/src/hw_spi.c:111:6:HW_SPI_IoInit	1
+../App/LoRaWAN/src/hw_spi.c:133:6:HW_SPI_IoDeInit	1
+../App/LoRaWAN/src/hw_spi.c:162:10:HW_SPI_InOut	1
+../App/LoRaWAN/src/hw_spi.c:173:17:SpiFrequency	6

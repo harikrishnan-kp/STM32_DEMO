@@ -1,0 +1,4 @@
+../Drivers/Middlewares/LoRaWAN/Crypto/cmac.c:58:6:AES_CMAC_Init	1
+../Drivers/Middlewares/LoRaWAN/Crypto/cmac.c:65:6:AES_CMAC_SetKey	1
+../Drivers/Middlewares/LoRaWAN/Crypto/cmac.c:71:6:AES_CMAC_Update	8
+../Drivers/Middlewares/LoRaWAN/Crypto/cmac.c:105:6:AES_CMAC_Final	12

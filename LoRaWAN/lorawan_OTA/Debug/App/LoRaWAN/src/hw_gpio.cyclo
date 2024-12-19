@@ -1,0 +1,6 @@
+../App/LoRaWAN/src/hw_gpio.c:58:6:HW_GPIO_Init	7
+../App/LoRaWAN/src/hw_gpio.c:79:6:HW_GPIO_SetIrq	2
+../App/LoRaWAN/src/hw_gpio.c:109:6:HW_GPIO_IrqHandler	2
+../App/LoRaWAN/src/hw_gpio.c:128:6:HW_GPIO_Write	1
+../App/LoRaWAN/src/hw_gpio.c:142:10:HW_GPIO_Read	1
+../App/LoRaWAN/src/hw_gpio.c:156:16:HW_GPIO_GetBitPos	5

@@ -1,0 +1,16 @@
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:97:23:GetKeyByID	32	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:113:13:DummyCB	8	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:130:30:ComputeCmac	56	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:168:23:SecureElementInit	48	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:218:23:SecureElementRestoreNvmCtx	16	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:232:7:SecureElementGetNvmCtx	16	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:238:23:SecureElementSetKey	56	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:273:23:SecureElementComputeAesCmac	40	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:284:23:SecureElementVerifyAesCmac	48	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:307:23:SecureElementAesEncrypt	40	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:341:23:SecureElementDeriveAndStoreKey	56	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:377:23:SecureElementRandomNumber	16	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:387:23:SecureElementSetDevEui	16	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:398:10:SecureElementGetDevEui	8	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:403:23:SecureElementSetJoinEui	16	static
+../Drivers/Middlewares/LoRaWAN/Crypto/soft-se.c:414:10:SecureElementGetJoinEui	8	static

@@ -1,0 +1,15 @@
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:99:6:TimerInit	16	static
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:110:6:TimerSetContext	16	static
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:115:6:TimerStart	40	static,ignoring_inline_asm
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:157:6:TimerIsStarted	16	static
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:162:6:TimerIrqHandler	40	static
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:217:6:TimerStop	40	static,ignoring_inline_asm
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:295:6:TimerReset	16	static
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:301:6:TimerSetValue	24	static
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:319:13:TimerGetCurrentTime	16	static
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:325:13:TimerGetElapsedTime	24	static
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:337:13:TimerExists	24	static
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:351:13:TimerSetTimeout	32	static
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:364:13:TimerTempCompensation	16	static
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:370:13:TimerInsertTimer	24	static
+../Drivers/Middlewares/LoRaWAN/Utilities/timeServer.c:394:13:TimerInsertNewHeadTimer	24	static

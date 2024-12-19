@@ -1,0 +1,2 @@
+../App/LoRaWAN/src/bsp.c:64:6:BSP_sensor_Read	1
+../App/LoRaWAN/src/bsp.c:85:7:BSP_sensor_Init	1

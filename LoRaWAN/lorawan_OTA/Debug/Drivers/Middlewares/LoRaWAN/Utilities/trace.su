@@ -1,0 +1,4 @@
+../Drivers/Middlewares/LoRaWAN/Utilities/trace.c:53:6:TraceInit	8	static
+../Drivers/Middlewares/LoRaWAN/Utilities/trace.c:62:9:TraceSend	312	static,ignoring_inline_asm
+../Drivers/Middlewares/LoRaWAN/Utilities/trace.c:97:13:TraceGetFileName	24	static
+../Drivers/Middlewares/LoRaWAN/Utilities/trace.c:115:13:Trace_TxCpltCallback	40	static,ignoring_inline_asm

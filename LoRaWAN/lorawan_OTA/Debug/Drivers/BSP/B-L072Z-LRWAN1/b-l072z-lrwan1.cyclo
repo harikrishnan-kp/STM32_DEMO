@@ -1,0 +1,8 @@
+/home/icfoss/hari_work/z_git/STM32_DEMO/LoRaWAN/lorawan_OTA/Drivers/CMSIS/Include/core_cm0plus.h:848:22:__NVIC_SetPriority	2
+../Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:93:10:BSP_GetVersion	1
+../Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:105:6:BSP_LED_Init	7
+../Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:128:6:BSP_LED_On	1
+../Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:140:6:BSP_LED_Off	1
+../Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:152:6:BSP_LED_Toggle	1
+../Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:168:6:BSP_PB_Init	3
+../Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:206:10:BSP_PB_GetState	1

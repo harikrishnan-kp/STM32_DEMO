@@ -1,0 +1,10 @@
+../App/LoRaWAN/src/vcom.c:33:6:vcom_Init	16	static
+../App/LoRaWAN/src/vcom.c:62:6:vcom_Trace	16	static
+../App/LoRaWAN/src/vcom.c:67:6:HAL_UART_TxCpltCallback	16	static
+../App/LoRaWAN/src/vcom.c:73:6:vcom_DMA_TX_IRQHandler	8	static
+../App/LoRaWAN/src/vcom.c:78:6:vcom_IRQHandler	8	static
+../App/LoRaWAN/src/vcom.c:83:6:vcom_DeInit	8	static
+../App/LoRaWAN/src/vcom.c:88:6:HAL_UART_MspInit	32	static
+../App/LoRaWAN/src/vcom.c:139:6:HAL_UART_MspDeInit	16	static
+../App/LoRaWAN/src/vcom.c:162:6:vcom_IoInit	48	static
+../App/LoRaWAN/src/vcom.c:184:6:vcom_IoDeInit	32	static

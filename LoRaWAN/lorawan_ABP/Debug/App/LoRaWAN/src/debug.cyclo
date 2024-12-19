@@ -1,0 +1,2 @@
+../App/LoRaWAN/src/debug.c:30:6:DBG_Init	1
+../App/LoRaWAN/src/debug.c:77:6:Error_Handler	1

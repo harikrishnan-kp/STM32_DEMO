@@ -1,0 +1,13 @@
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:76:11:SysTimeAdd	32	static
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:90:11:SysTimeSub	32	static
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:104:6:SysTimeSet	48	static
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:118:11:SysTimeGet	64	static
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:134:11:SysTimeGetMcuTime	32	static
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:143:10:SysTimeToMs	56	static
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:151:11:SysTimeFromMs	64	static
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:161:10:SysTimeMkTime	56	static
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:192:6:SysTimeLocalTime	64	static
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:244:17:CalendarGetMonth	24	static
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:281:13:CalendarDiv86400	32	static
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:307:17:CalendarDiv61	24	static
+../Drivers/Middlewares/LoRaWAN/Utilities/systime.c:329:13:CalendarDiv60	32	static

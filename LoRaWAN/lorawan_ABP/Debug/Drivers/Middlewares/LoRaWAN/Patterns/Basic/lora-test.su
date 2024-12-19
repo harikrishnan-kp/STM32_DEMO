@@ -1,0 +1,6 @@
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora-test.c:73:6:certif_running	8	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora-test.c:78:6:certif_DownLinkIncrement	8	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora-test.c:83:6:certif_linkCheck	16	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora-test.c:90:13:certif_tx	32	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora-test.c:158:6:certif_rx	144	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora-test.c:348:13:OnCertifTxNextPacketTimerEvent	16	static

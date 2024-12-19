@@ -1,0 +1,10 @@
+../App/LoRaWAN/src/vcom.c:33:6:vcom_Init	2
+../App/LoRaWAN/src/vcom.c:62:6:vcom_Trace	1
+../App/LoRaWAN/src/vcom.c:67:6:HAL_UART_TxCpltCallback	1
+../App/LoRaWAN/src/vcom.c:73:6:vcom_DMA_TX_IRQHandler	1
+../App/LoRaWAN/src/vcom.c:78:6:vcom_IRQHandler	1
+../App/LoRaWAN/src/vcom.c:83:6:vcom_DeInit	1
+../App/LoRaWAN/src/vcom.c:88:6:HAL_UART_MspInit	2
+../App/LoRaWAN/src/vcom.c:139:6:HAL_UART_MspDeInit	3
+../App/LoRaWAN/src/vcom.c:162:6:vcom_IoInit	1
+../App/LoRaWAN/src/vcom.c:184:6:vcom_IoDeInit	1

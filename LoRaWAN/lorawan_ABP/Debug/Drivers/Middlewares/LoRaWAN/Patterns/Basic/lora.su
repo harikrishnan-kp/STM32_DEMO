@@ -1,0 +1,12 @@
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora.c:157:13:McpsConfirm	24	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora.c:198:13:McpsIndication	32	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora.c:278:13:MlmeConfirm	24	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora.c:386:13:MlmeIndication	24	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora.c:436:6:LORA_Init	144	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora.c:564:6:LORA_Join	32	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora.c:620:16:LORA_JoinStatus	40	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora.c:640:6:LORA_send	40	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora.c:760:17:LORA_RequestClass	64	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora.c:828:6:LORA_GetCurrentClass	56	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora.c:839:13:TraceUpLinkFrame	96	static
+../Drivers/Middlewares/LoRaWAN/Patterns/Basic/lora.c:884:13:TraceDownLinkFrame	56	static

@@ -5,7 +5,7 @@ Description: sending an empty string to chirpstack using LoRaWAN OTA
 # details
 Board                : B-L072Z-LRWAN1 
 IDE                  : STM32CubeIDE
-lorawan library used : modified version of i-cube_lrwan by STMicroelectronics.
+lorawan library used : STMicroelectronics i-cube_lrwan modified for B-L072Z-LRWAN1.
 network server       : chirpstack v4
 LoRa MAC version     : LoRaWAN 1.0.3
 LoRa Region          : IN865
@@ -26,7 +26,10 @@ LORAWAN_NWK_KEY         -> Application key from Chirpstack
 * Add required paths (if there is an issue) : project >> properties >> c/c++ general >> paths and symbols >> add
 * Save, build and launch the project.
 
-
-### note 
-* You can download the modified Lorawan stack for B-L072Z-LRWAN1 from this [repository](https://gitlab.com/techworldthink/b-l072z-lrwan1-lorawan-stack-implementation) or from the [official site](https://www.st.com/en/embedded-software/i-cube-lrwan.html).
-* The official site may contain the latest version of the stack and may have different procedures for setup.
+### library source
+  - modified [B-L072Z-LRWAN1 Lorawan stack](https://gitlab.com/techworldthink/b-l072z-lrwan1-lorawan-stack-implementation)
+  - official version of [i-cube_lrwan](https://www.st.com/en/embedded-software/i-cube-lrwan.html).
+  ```console
+  #note
+  The official site may contain the latest version of the stack and may have different procedures for setup.
+  ```

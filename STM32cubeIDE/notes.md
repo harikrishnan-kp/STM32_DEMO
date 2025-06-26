@@ -30,3 +30,14 @@
    * IDE settings (e.g., whether the project is for STM32CubeIDE or another toolchain).
    * Build toolchain and environment preferences.
    * Information about the project's name, paths, and configurations.
+## ERRORS
+Error: Enable to flash program using bebugger
+```
+Could not determine GDB version using command: arm-none-eabi-gdb --version
+arm-none-eabi-gdb: error while loading shared libraries: libncurses.so.5: cannot open shared object file: No such file or directory
+```
+Solution: libncurses5 was removed in Ubnutu 24.04. Manually Download and install libncurses5_6.4-2_amd64 package. ([reddit](https://www.reddit.com/r/Ubuntu/comments/1cm97bg/libncurses5dev/))
+```
+curl -O http://launchpadlibrarian.net/648013227/libncurses5_6.4-2_amd64.deb
+sudo dpkg -i libncurses5_6.4-2_amd64.deb
+```
